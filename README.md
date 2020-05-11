@@ -1,3 +1,3 @@
 # Chat :envelope:
 
-Simple chat with express & socket.io
+Simple chat with multiple rooms using express & socket.io
